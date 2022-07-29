@@ -1,6 +1,6 @@
 # INTELLIGENT EYE
 
-This code file will work in google colab.
+The code file will work in google colab.
 
 OBJECT DETECTION
 
